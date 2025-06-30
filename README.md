@@ -1,1 +1,0 @@
-# sekolah1

@@ -1,0 +1,597 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "b576d474e63ba4430161b8878c6c6044"
+    },
+    {
+        "path": "aida.png",
+        "type": "file",
+        "md5": "e36205718a940e66d9a4447e0a4535f7"
+    },
+    {
+        "path": "alumni-2024",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/alumni-2024/index.html",
+        "type": "file",
+        "md5": "184fc28d2a9ae3fde0457c24c1cb0787"
+    },
+    {
+        "path": "alumni-2025",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/alumni-2025/index.html",
+        "type": "file",
+        "md5": "82e513d8b05cc86360a70bcd7f3d86af"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "92c671832a9e02419b9647ae0a482c25"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "8b651e5d837a721f5efd3a9fb1397bad"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "6163ec009b55946ce2430d1fe34cff4d"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1b09dc64eb6086ddc9720890661ff038"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+    },
+    {
+        "path": "dewan-guru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dewan-guru/index.html",
+        "type": "file",
+        "md5": "b7aaf6eccfc2e1dcaf6b423cebcf729e"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "5bf44508c78752ba167cb8e02e6d9bc5"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a4ed57efe28436f77f9b259d2892969d"
+    },
+    {
+        "path": "guru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "guru/deddy-hidayat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/guru/deddy-hidayat/index.html",
+        "type": "file",
+        "md5": "db9c81e6c06e90234b9caa759b1dbac5"
+    },
+    {
+        "path": "guru/ispandi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/guru/ispandi/index.html",
+        "type": "file",
+        "md5": "fe3065f993d588931fa113838b7a1b9e"
+    },
+    {
+        "path": "humaini.png",
+        "type": "file",
+        "md5": "352528e89b99b23ad6ef7a5390bc43b0"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "d79e7a52dd515b285f96a562586fe67d"
+    },
+    {
+        "path": "informasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/informasi/index.html",
+        "type": "file",
+        "md5": "52e2532be7c5b608e17b3fc381174518"
+    },
+    {
+        "path": "kategori",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "kategori/2023-2024",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/2023-2024/index.html",
+        "type": "file",
+        "md5": "0952fedf0c7e3e4dd610733001b563e6"
+    },
+    {
+        "path": "/kategori/index.html",
+        "type": "file",
+        "md5": "a5525708a5bd148770b50e4413817aea"
+    },
+    {
+        "path": "kategori/umum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/umum/index.html",
+        "type": "file",
+        "md5": "23840a3d462d1d9d6499243d667d6d0b"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/aida.png",
+        "type": "file",
+        "md5": "e36205718a940e66d9a4447e0a4535f7"
+    },
+    {
+        "path": "/media/files/humaini.png",
+        "type": "file",
+        "md5": "352528e89b99b23ad6ef7a5390bc43b0"
+    },
+    {
+        "path": "/media/files/reza.png",
+        "type": "file",
+        "md5": "1cd167b20195c4ed88d2156df421426d"
+    },
+    {
+        "path": "/media/files/rida.png",
+        "type": "file",
+        "md5": "866bb122b3a17590811c4a89c2257b84"
+    },
+    {
+        "path": "/media/files/ridho.png",
+        "type": "file",
+        "md5": "2e57451688811baa21cad158343aad0b"
+    },
+    {
+        "path": "/media/files/yusuf.png",
+        "type": "file",
+        "md5": "6160d49bad92a0bb69c78fe5d1b140d4"
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/plugins/docSearch",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/docSearch/docsearch.min.css",
+        "type": "file",
+        "md5": "5f509c0dccaf0aaffb9fc8c0b9e1351c"
+    },
+    {
+        "path": "/media/plugins/docSearch/docsearch.min.js",
+        "type": "file",
+        "md5": "d59ba9b8392f352d8127a805b3df99b9"
+    },
+    {
+        "path": "media/plugins/pagePrefetching",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
+        "type": "file",
+        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
+    },
+    {
+        "path": "media/plugins/simpleLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/simpleLightboxGallery/venobox.min.css",
+        "type": "file",
+        "md5": "930f3a77f1401f46699d08c218ad3969"
+    },
+    {
+        "path": "/media/plugins/simpleLightboxGallery/venobox.min.js",
+        "type": "file",
+        "md5": "5142acef8a10cb59560be26621ce59d5"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/deddy2-thumbnail.webp",
+        "type": "file",
+        "md5": "9cb6404efa91425261d923ce36cb64cd"
+    },
+    {
+        "path": "/media/posts/4/gallery/deddy2.jpg",
+        "type": "file",
+        "md5": "9aff39c282cc8b6cd0dbcf25f1be5b39"
+    },
+    {
+        "path": "/media/posts/4/gallery/dewan-guru-dan-staf-thumbnail.webp",
+        "type": "file",
+        "md5": "2993b6cfba6d675b62a48621b8516ab3"
+    },
+    {
+        "path": "/media/posts/4/gallery/dewan-guru-dan-staf.webp",
+        "type": "file",
+        "md5": "3289cb5f0b57b8d894fab73b17bba423"
+    },
+    {
+        "path": "/media/posts/4/gallery/jumat-bersih-thumbnail.webp",
+        "type": "file",
+        "md5": "e5f44058c2a506ef523eb9290380fbb3"
+    },
+    {
+        "path": "/media/posts/4/gallery/jumat-bersih.png",
+        "type": "file",
+        "md5": "c93278b091815d6a739989b49705dfe4"
+    },
+    {
+        "path": "/media/posts/4/gallery/kegiatan-thumbnail.webp",
+        "type": "file",
+        "md5": "47106411beffb3c5a0fb214a807d2305"
+    },
+    {
+        "path": "/media/posts/4/gallery/kegiatan.png",
+        "type": "file",
+        "md5": "04cbedad5d335dd40f29e5a184208826"
+    },
+    {
+        "path": "/media/posts/4/gallery/Lomba-LTTQ-tingkat-kecamatan-thumbnail.webp",
+        "type": "file",
+        "md5": "e79f1ea6c86114345eed8880285b4a62"
+    },
+    {
+        "path": "/media/posts/4/gallery/Lomba-LTTQ-tingkat-kecamatan.png",
+        "type": "file",
+        "md5": "9485d35cfffd7161dfd697894d6d56b8"
+    },
+    {
+        "path": "/media/posts/4/gallery/lomba-pramuka-tingkat-kabupaten-thumbnail.webp",
+        "type": "file",
+        "md5": "f8e06649480e7eaef39d4f3c3434b39e"
+    },
+    {
+        "path": "/media/posts/4/gallery/lomba-pramuka-tingkat-kabupaten.jpg",
+        "type": "file",
+        "md5": "8357d834a11625eebfdb846136d7353e"
+    },
+    {
+        "path": "/media/posts/4/gallery/prestasi-pramuka-thumbnail.webp",
+        "type": "file",
+        "md5": "b4632c166189e34b9e886574926c62f0"
+    },
+    {
+        "path": "/media/posts/4/gallery/prestasi-pramuka.webp",
+        "type": "file",
+        "md5": "d798a55f87a57ba11ebcda1ce946a4b7"
+    },
+    {
+        "path": "/media/posts/4/gallery/syarwani-thumbnail.webp",
+        "type": "file",
+        "md5": "7a6ffd6f5905d86fab10f332de5a391f"
+    },
+    {
+        "path": "/media/posts/4/gallery/syarwani.jpeg",
+        "type": "file",
+        "md5": "60e4a77bae427b5e739d3e355caa0921"
+    },
+    {
+        "path": "/media/posts/4/gallery/tahsin-2-thumbnail.webp",
+        "type": "file",
+        "md5": "9293e7edd554a5c2d3a2bebaf538fa14"
+    },
+    {
+        "path": "/media/posts/4/gallery/tahsin-2.webp",
+        "type": "file",
+        "md5": "5a8784f6e86cf1aef6a3def93a762934"
+    },
+    {
+        "path": "/media/posts/4/gallery/unbk-thumbnail.webp",
+        "type": "file",
+        "md5": "bfb65c4027daa9819703094db0e0974b"
+    },
+    {
+        "path": "/media/posts/4/gallery/unbk.webp",
+        "type": "file",
+        "md5": "99f2aab5485edebaecdf96fec6a5ea4d"
+    },
+    {
+        "path": "/media/posts/4/gallery/upacara-bendera-2-thumbnail.webp",
+        "type": "file",
+        "md5": "272a3922585fabf6f9162b38750de6e8"
+    },
+    {
+        "path": "/media/posts/4/gallery/upacara-bendera-2.webp",
+        "type": "file",
+        "md5": "2dd0cded5c1aeebad0263234b8f34945"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/sdn-sungai-dalam-1-2-md.webp",
+        "type": "file",
+        "md5": "89ad3e83f179a4dd0cd818667d111eba"
+    },
+    {
+        "path": "/media/posts/4/responsive/sdn-sungai-dalam-1-2-sm.webp",
+        "type": "file",
+        "md5": "faf7bc96e1528698476621eb8331f844"
+    },
+    {
+        "path": "/media/posts/4/responsive/sdn-sungai-dalam-1-2-xs.webp",
+        "type": "file",
+        "md5": "b41c66b190e8d680740bac1b219e091e"
+    },
+    {
+        "path": "/media/posts/4/sdn-sungai-dalam-1-2.jpg",
+        "type": "file",
+        "md5": "3cc9e3250a76a7d2404fb25158af20eb"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/ispandi-pic.png",
+        "type": "file",
+        "md5": "240cf09707fa0069c73e4fe36cc253d6"
+    },
+    {
+        "path": "/media/website/navbar-2.png",
+        "type": "file",
+        "md5": "714dd85931c9887a3ca8f5201f314bb2"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/ispandi-pic-sm.webp",
+        "type": "file",
+        "md5": "fcf548e94662cbee757a6a1c7e81177a"
+    },
+    {
+        "path": "/media/website/responsive/ispandi-pic-xs.webp",
+        "type": "file",
+        "md5": "fcf548e94662cbee757a6a1c7e81177a"
+    },
+    {
+        "path": "/media/website/responsive/navbar-2-sm.webp",
+        "type": "file",
+        "md5": "15aecb7837aced3f4fccadd4d04af252"
+    },
+    {
+        "path": "/media/website/responsive/navbar-2-xs.webp",
+        "type": "file",
+        "md5": "15aecb7837aced3f4fccadd4d04af252"
+    },
+    {
+        "path": "/media/website/responsive/sdn-sungai-dalam-callback-sm.webp",
+        "type": "file",
+        "md5": "704a3c3ecc471b90797ffd843b323657"
+    },
+    {
+        "path": "/media/website/responsive/sdn-sungai-dalam-callback-xs.webp",
+        "type": "file",
+        "md5": "660187160f5ace42f242dbf4384120d0"
+    },
+    {
+        "path": "/media/website/sdn-sungai-dalam-callback.png",
+        "type": "file",
+        "md5": "c9e9c239b81f9232fc4fbb8002ed7890"
+    },
+    {
+        "path": "reza.png",
+        "type": "file",
+        "md5": "1cd167b20195c4ed88d2156df421426d"
+    },
+    {
+        "path": "rida.png",
+        "type": "file",
+        "md5": "866bb122b3a17590811c4a89c2257b84"
+    },
+    {
+        "path": "ridho.png",
+        "type": "file",
+        "md5": "2e57451688811baa21cad158343aad0b"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "cda36d175540760bcb0e9753144aa56c"
+    },
+    {
+        "path": "sambutan-kepala-sekolah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sambutan-kepala-sekolah/index.html",
+        "type": "file",
+        "md5": "7b2dbdd36c32c33c39da744f999159fb"
+    },
+    {
+        "path": "selayang-pandang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/selayang-pandang/index.html",
+        "type": "file",
+        "md5": "b213fc7c6cd71799b504b0f71e85cdd3"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "cdcc41368beafcf4e7b29fa9f77fad14"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "txr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/txr/index.html",
+        "type": "file",
+        "md5": "fbcb288169784467a0ea6c368c4fc43e"
+    },
+    {
+        "path": "visi-dan-misi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/visi-dan-misi/index.html",
+        "type": "file",
+        "md5": "a09e8c2f9dda772e95054763d3c465b0"
+    },
+    {
+        "path": "yusuf.png",
+        "type": "file",
+        "md5": "6160d49bad92a0bb69c78fe5d1b140d4"
+    },
+    {
+        "path": "_headers",
+        "type": "file",
+        "md5": "55970b13a6d2baa6a90a907e39e95bd4"
+    }
+]

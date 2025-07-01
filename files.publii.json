@@ -5,11 +5,6 @@
         "md5": "b576d474e63ba4430161b8878c6c6044"
     },
     {
-        "path": "aida.png",
-        "type": "file",
-        "md5": "e36205718a940e66d9a4447e0a4535f7"
-    },
-    {
         "path": "alumni-2024",
         "type": "directory",
         "md5": false
@@ -17,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "9ba5be82ab2971ed5f8bb051cb783dab"
+        "md5": "a2b2ccedad7633642a9077fe2e648a81"
     },
     {
         "path": "alumni-2025",
@@ -140,14 +135,9 @@
         "md5": "fe3065f993d588931fa113838b7a1b9e"
     },
     {
-        "path": "humaini.png",
-        "type": "file",
-        "md5": "352528e89b99b23ad6ef7a5390bc43b0"
-    },
-    {
         "path": "index.html",
         "type": "file",
-        "md5": "7fa52114ddc4545209ac47f89a221a8a"
+        "md5": "216c078cb8b4b85f8f4264bf325c1c4e"
     },
     {
         "path": "informasi",
@@ -157,7 +147,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "45eb8f73dfd53e22478cc3551d1d4b2c"
+        "md5": "2a05f4a695f75829d9c6da7048231885"
     },
     {
         "path": "kategori",
@@ -193,41 +183,6 @@
         "path": "media",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/files",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/files/aida.png",
-        "type": "file",
-        "md5": "e36205718a940e66d9a4447e0a4535f7"
-    },
-    {
-        "path": "/media/files/humaini.png",
-        "type": "file",
-        "md5": "352528e89b99b23ad6ef7a5390bc43b0"
-    },
-    {
-        "path": "/media/files/reza.png",
-        "type": "file",
-        "md5": "1cd167b20195c4ed88d2156df421426d"
-    },
-    {
-        "path": "/media/files/rida.png",
-        "type": "file",
-        "md5": "866bb122b3a17590811c4a89c2257b84"
-    },
-    {
-        "path": "/media/files/ridho.png",
-        "type": "file",
-        "md5": "2e57451688811baa21cad158343aad0b"
-    },
-    {
-        "path": "/media/files/yusuf.png",
-        "type": "file",
-        "md5": "6160d49bad92a0bb69c78fe5d1b140d4"
     },
     {
         "path": "media/plugins",
@@ -515,21 +470,6 @@
         "md5": "c9e9c239b81f9232fc4fbb8002ed7890"
     },
     {
-        "path": "reza.png",
-        "type": "file",
-        "md5": "1cd167b20195c4ed88d2156df421426d"
-    },
-    {
-        "path": "rida.png",
-        "type": "file",
-        "md5": "866bb122b3a17590811c4a89c2257b84"
-    },
-    {
-        "path": "ridho.png",
-        "type": "file",
-        "md5": "2e57451688811baa21cad158343aad0b"
-    },
-    {
         "path": "robots.txt",
         "type": "file",
         "md5": "cda36d175540760bcb0e9753144aa56c"
@@ -557,7 +497,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "dc07631c86e0b5bf5450d9ea76f2fca1"
+        "md5": "222ba1c3b0559216d2c833748ac0ca8e"
     },
     {
         "path": "sitemap.xsl",
@@ -583,11 +523,6 @@
         "path": "/visi-dan-misi/index.html",
         "type": "file",
         "md5": "a09e8c2f9dda772e95054763d3c465b0"
-    },
-    {
-        "path": "yusuf.png",
-        "type": "file",
-        "md5": "6160d49bad92a0bb69c78fe5d1b140d4"
     },
     {
         "path": "_headers",

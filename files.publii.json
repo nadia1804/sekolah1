@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b576d474e63ba4430161b8878c6c6044"
+        "md5": "3d271f66731d51e6c42f139d769a28c0"
     },
     {
         "path": "alumni-2024",
@@ -12,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "a2b2ccedad7633642a9077fe2e648a81"
+        "md5": "01f04fdd60149735dec9f9b2509de633"
     },
     {
         "path": "alumni-2025",
@@ -22,7 +22,7 @@
     {
         "path": "/alumni-2025/index.html",
         "type": "file",
-        "md5": "82e513d8b05cc86360a70bcd7f3d86af"
+        "md5": "33b20b0e50467dd53b689a71fd6da36b"
     },
     {
         "path": "assets",
@@ -97,17 +97,17 @@
     {
         "path": "/dewan-guru/index.html",
         "type": "file",
-        "md5": "b7aaf6eccfc2e1dcaf6b423cebcf729e"
+        "md5": "90d6e28f3c5e58475014ae59b385d946"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5bf44508c78752ba167cb8e02e6d9bc5"
+        "md5": "c8e18c36d1429fc4a522809d67a3b549"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a4ed57efe28436f77f9b259d2892969d"
+        "md5": "82825c99543711bb81f8903eeee529b9"
     },
     {
         "path": "guru",
@@ -122,7 +122,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "db9c81e6c06e90234b9caa759b1dbac5"
+        "md5": "d1a32b4b21cc5f4c92fead2ee25696c3"
     },
     {
         "path": "guru/ispandi",
@@ -132,12 +132,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "fe3065f993d588931fa113838b7a1b9e"
+        "md5": "f948cba5c12120b11f9edd3c2e6cf4db"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6bc7cd9b5b2be054217a191bef19f4bb"
+        "md5": "fb25b73f3a160134e22917e24a06d3c7"
     },
     {
         "path": "informasi",
@@ -147,7 +147,17 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "158a837082a7b52dab5034cb446acad7"
+        "md5": "3664f1232fbc65787dcf1abcf8e8bab8"
+    },
+    {
+        "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
+        "type": "file",
+        "md5": "275f1b9a30237bba366b3fb5c70424f5"
     },
     {
         "path": "kategori",
@@ -162,12 +172,12 @@
     {
         "path": "/kategori/2023-2024/index.html",
         "type": "file",
-        "md5": "0952fedf0c7e3e4dd610733001b563e6"
+        "md5": "fc1c3d377a83c3f17a7eba818855d80c"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "a5525708a5bd148770b50e4413817aea"
+        "md5": "9012943a2602ecbf0c1c3949cd10b53d"
     },
     {
         "path": "kategori/umum",
@@ -177,7 +187,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "23840a3d462d1d9d6499243d667d6d0b"
+        "md5": "0d4f73d92f411ef265ea45ff7509f1f6"
     },
     {
         "path": "media",
@@ -482,7 +492,7 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "adf6a2d093db70db24570f3bb6cd0273"
+        "md5": "85bb61772f7f4092783e4b9b4d7afb76"
     },
     {
         "path": "selayang-pandang",
@@ -492,12 +502,12 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "b213fc7c6cd71799b504b0f71e85cdd3"
+        "md5": "6a492b1c5d97b85802ea691a92c0e160"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "222ba1c3b0559216d2c833748ac0ca8e"
+        "md5": "b9a3caa5ec33efd1963f831a798030fa"
     },
     {
         "path": "sitemap.xsl",
@@ -512,7 +522,7 @@
     {
         "path": "/txr/index.html",
         "type": "file",
-        "md5": "fbcb288169784467a0ea6c368c4fc43e"
+        "md5": "1ff3344fda6d23bfad595027bd4fc530"
     },
     {
         "path": "visi-dan-misi",
@@ -522,7 +532,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "a09e8c2f9dda772e95054763d3c465b0"
+        "md5": "a8cff3281305cdf83b073df3599eb540"
     },
     {
         "path": "_headers",

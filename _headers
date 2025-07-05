@@ -2,11 +2,11 @@
   Vary: Accept-Encoding
 
 /*.css
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=2592000 must-revalidate
   Vary: Accept-Encoding
 
 /*.js
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=2592000 must-revalidate
   Vary: Accept-Encoding
 
 /*.woff2

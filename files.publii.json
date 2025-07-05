@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d15d8b9e7339fc9a5d53c7446e28dca8"
+        "md5": "7957ca6d09400181213198c7dc3b4b9f"
     },
     {
         "path": "alumni-2024",
@@ -12,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "681583698f3313812c141520b4958cda"
+        "md5": "1385e560196d8de2fe46467cb4177f8e"
     },
     {
         "path": "alumni-2025",
@@ -22,7 +22,7 @@
     {
         "path": "/alumni-2025/index.html",
         "type": "file",
-        "md5": "2a2dd020aef5959caaf1ae61b83cadda"
+        "md5": "5e2386c947d332203c9c61646d08e8cd"
     },
     {
         "path": "assets",
@@ -97,7 +97,7 @@
     {
         "path": "/dewan-guru/index.html",
         "type": "file",
-        "md5": "0482ccb18fe110a1a6d2ff9a3bcf4cad"
+        "md5": "d2d5d089a862a151ec2b3ffc20c1be7c"
     },
     {
         "path": "feed.json",
@@ -122,7 +122,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "c5618146e19019f27cdc8dca1e131a43"
+        "md5": "4344e3e29835d68ee40a34b0c2a0c506"
     },
     {
         "path": "guru/ispandi",
@@ -132,12 +132,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "aa2616e0dded04d40055ad3534481a88"
+        "md5": "86f79e6e00beb0c5559e73adfa0f1d19"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7d43d0b544f6a5e2a2956917d2fbb516"
+        "md5": "f97a9ec01e028d1536cb1cfdca9edf95"
     },
     {
         "path": "informasi",
@@ -147,7 +147,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "0e76af1b0d978dc0acc02df33ad5b34a"
+        "md5": "5e156b0b7bc229c82e240487157ecc74"
     },
     {
         "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
@@ -157,7 +157,7 @@
     {
         "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
         "type": "file",
-        "md5": "cbf84b44c7ac7408d7735c4a95f80b8f"
+        "md5": "235f64d2bef17a2f5503c5df374fdfd9"
     },
     {
         "path": "kategori",
@@ -172,12 +172,12 @@
     {
         "path": "/kategori/2023-2024/index.html",
         "type": "file",
-        "md5": "62feb3c764270690cf76fe1959fabc35"
+        "md5": "f00b6b59e4b908bf36bd2f4c3f4c4029"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "c060a86073fe9de9fed1e4f3e1c38df7"
+        "md5": "8c79dc715493c695b5a2b76090b93af1"
     },
     {
         "path": "kategori/umum",
@@ -187,7 +187,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "4e8ecfcffc4d92a19c9b156001231ef9"
+        "md5": "530c809632c67ee2520f2d49af0ec7e9"
     },
     {
         "path": "media",
@@ -492,12 +492,12 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "ab1355c62066ace9961cc4133576c0d2"
+        "md5": "6e684a02674dc9963866c8bcc20bd4b6"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "9dc0d04fe50f392353fc98c40915e8ac"
+        "md5": "62a566ff575a15bea2d043ef7d4c8b0e"
     },
     {
         "path": "selayang-pandang",
@@ -507,12 +507,12 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "8d0afe9c983887d5051a3cff317e96df"
+        "md5": "4025261cebfe1669e9a82ccec61fc3ee"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "874ebb0d3d626be1becb8e6b1e876804"
+        "md5": "ba0b30ef8e555c6b19580d9238994318"
     },
     {
         "path": "sitemap.xsl",
@@ -527,7 +527,7 @@
     {
         "path": "/struktur-organisasi/index.html",
         "type": "file",
-        "md5": "ff96b5933045b0cfdb199019f56626e6"
+        "md5": "61148bf75bd0ba6c7aeae8984a8c2121"
     },
     {
         "path": "visi-dan-misi",
@@ -537,7 +537,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "1db29d7528248605cf5855763ee6aa15"
+        "md5": "1382085c7b7f6b60519267c523601165"
     },
     {
         "path": "_headers",

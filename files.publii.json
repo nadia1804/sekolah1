@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "6162b9bef430eac8200d7b83942c28e3"
+        "md5": "0b1962c38736add5b86941e0ca0b94d4"
     },
     {
         "path": "alumni-2024",
@@ -12,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "239bf46c1e5dc87adc007d3a98a6b3c8"
+        "md5": "be8f51b2584578fab8c5c1bd3cfb86ba"
     },
     {
         "path": "alumni-2025",
@@ -22,7 +22,7 @@
     {
         "path": "/alumni-2025/index.html",
         "type": "file",
-        "md5": "b6e082556c7a802a58fba0cba318e7f7"
+        "md5": "cd2717950143c02cd46936a6b4227dba"
     },
     {
         "path": "assets",
@@ -97,7 +97,7 @@
     {
         "path": "/dewan-guru/index.html",
         "type": "file",
-        "md5": "543d10ad152fcac7af27ba1cc2bcc440"
+        "md5": "84df4ab470156186a72210e8c0645c83"
     },
     {
         "path": "feed.json",
@@ -122,7 +122,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "537daf153c8fdcd6d0ff3d4245029638"
+        "md5": "6512ecf37e0a561737a476ae39c25c78"
     },
     {
         "path": "guru/ispandi",
@@ -132,12 +132,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "f4134d730411c76a851097f3b3111a8f"
+        "md5": "dcdd6176b768de4707f5b3fb558acc87"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "398e4499492c12b0ebcba892af29fad7"
+        "md5": "396252d71de9040cef3d1fe606bf200e"
     },
     {
         "path": "informasi",
@@ -147,7 +147,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "1d57b0b0bf8dd56f24678a7899321d22"
+        "md5": "186e01c1c81eec7970bd04ac8227d445"
     },
     {
         "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
@@ -157,7 +157,7 @@
     {
         "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
         "type": "file",
-        "md5": "dd02eac21b0fe51e85851f9f51cd7ded"
+        "md5": "5966ad493b8a6bd1a1281c8642fe9374"
     },
     {
         "path": "kategori",
@@ -172,12 +172,12 @@
     {
         "path": "/kategori/2023-2024/index.html",
         "type": "file",
-        "md5": "1e520f0bc483615ebda79cbcbc3608ad"
+        "md5": "ccf9a95f9d470bb10f34fd4aa0acd9aa"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "6ae617040878b0927965ac2bf594e43c"
+        "md5": "0f3d2644a29b0c5039dbe9f6a675adad"
     },
     {
         "path": "kategori/umum",
@@ -187,7 +187,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "85eee26d780274a77b89acf053b2c76b"
+        "md5": "3887ea66cd1f4433383e8ff3f9b1f685"
     },
     {
         "path": "media",
@@ -492,12 +492,12 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "09c81264561794bc08c4639cd2af338b"
+        "md5": "d48eaeee3edc061ce03a3728e0c18ae2"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "93ddc4c0aed8ae047585b3344e79e438"
+        "md5": "066b90355b72dcf5f1ae05ab76f405b1"
     },
     {
         "path": "selayang-pandang",
@@ -507,7 +507,7 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "87e5a119d7d27e161936c18cf11a71c4"
+        "md5": "fe059619d32a58a0f144173b83403804"
     },
     {
         "path": "sitemap.xml",
@@ -527,7 +527,7 @@
     {
         "path": "/struktur-organisasi/index.html",
         "type": "file",
-        "md5": "d29709253457a922e051e02067e23fbd"
+        "md5": "c8425976be92ece08d72a63872959050"
     },
     {
         "path": "visi-dan-misi",
@@ -537,7 +537,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "dea05c91b811c03f76761c6be076e033"
+        "md5": "a3fa6fa74306fb558df58464f0d719d7"
     },
     {
         "path": "_headers",

@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0e3c397f5cd7a5dfa9a0c9b0a7be0cea"
+        "md5": "c8220b94b5e3113b8ca78865b6cb5ea8"
     },
     {
         "path": "informasi",
@@ -147,7 +147,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "16f77bb9dc04427e21bdf770dc310c5b"
+        "md5": "d729970c5db55a9a013479b8f323624f"
     },
     {
         "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
@@ -276,6 +276,81 @@
     },
     {
         "path": "/media/plugins/simpleLightboxGallery/venobox.min.js",
+        "type": "file",
+        "md5": "5142acef8a10cb59560be26621ce59d5"
+    },
+    {
+        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch/docsearch.min.css",
+        "type": "file",
+        "md5": "5f509c0dccaf0aaffb9fc8c0b9e1351c"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch/docsearch.min.js",
+        "type": "file",
+        "md5": "d59ba9b8392f352d8127a805b3df99b9"
+    },
+    {
+        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/pagePrefetching",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/pagePrefetching/quicklink.umd.js",
+        "type": "file",
+        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
+    },
+    {
+        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery/venobox.min.css",
+        "type": "file",
+        "md5": "930f3a77f1401f46699d08c218ad3969"
+    },
+    {
+        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery/venobox.min.js",
         "type": "file",
         "md5": "5142acef8a10cb59560be26621ce59d5"
     },

@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fef133dd3071fc142b169eee326e8aaf"
+        "md5": "2a5e5efbe6c342f220f4b3ef94763429"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a5642b912d30e4c597ec2c5d5255e3c6"
+        "md5": "049c8a0593dd1050bbe151ca73af6dd5"
     },
     {
         "path": "guru",
@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "21fa5f78ae0722747d49e154eacd95e3"
+        "md5": "9d3664a73681efe8b2e3dfb29f37f621"
     },
     {
         "path": "informasi",
@@ -152,7 +152,7 @@
     {
         "path": "/informasi/analisis-kalender-pendidikan-2025-2026/index.html",
         "type": "file",
-        "md5": "e1499b032d5984c9cd34b85291ed0d7b"
+        "md5": "32505fc14d528c04571bd707e5e52f0a"
     },
     {
         "path": "informasi/apa-itu-mpls-ramah",
@@ -177,7 +177,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "7d86fade4bec79e60f274a13586c0ca8"
+        "md5": "0cf9c74ad47a45396624d91ea69d7674"
     },
     {
         "path": "informasi/kalender-pendidikan-2025-2026",

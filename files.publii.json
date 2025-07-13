@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "797f58ddf888251d3e4ca5e56b33058c"
+        "md5": "b4f5257cc3a6b9988df401f2e3cdeba6"
     },
     {
         "path": "alumni-2024",
@@ -12,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "fe9cebb38c323d3def853452b049cdd6"
+        "md5": "4a1a46c54025f9e32f595ec3a700bee3"
     },
     {
         "path": "alumni-2025",
@@ -22,7 +22,7 @@
     {
         "path": "/alumni-2025/index.html",
         "type": "file",
-        "md5": "b67949ce8340d8ba0229f976c31196d5"
+        "md5": "0df689939e59097e404f5d3faf02028a"
     },
     {
         "path": "assets",
@@ -97,17 +97,17 @@
     {
         "path": "/dewan-guru/index.html",
         "type": "file",
-        "md5": "dc646919791e24b62ec1e29f18c43d8e"
+        "md5": "199c1f59da8e3ad7191b94809a57a0d5"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b07e763a71965e48f80cb45aa66313ab"
+        "md5": "59f47f923dc826e7f254cb2d9b26b4d0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9b07cdc9467f665094251de8853d468b"
+        "md5": "1e9be9bc922b947a5d414aed3a27ebba"
     },
     {
         "path": "guru",
@@ -122,7 +122,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "17f4493b06e0943fe22039fc93181f82"
+        "md5": "e189619a93ea7990d62435965473667a"
     },
     {
         "path": "guru/ispandi",
@@ -132,12 +132,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "26fcbed5f9d180cace1b166c41d53105"
+        "md5": "4e4265f73167e0e5c6a9584c9080f29f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "890de04ce0ed9d9bc99e64015c2477c3"
+        "md5": "cd11f8f0c294af044ff57902604c831e"
     },
     {
         "path": "informasi",
@@ -152,7 +152,7 @@
     {
         "path": "/informasi/analisis-kalender-pendidikan-2025-2026/index.html",
         "type": "file",
-        "md5": "1e498560ca1212778c9c6a2e3a90ab66"
+        "md5": "d4beda0f9310491f9c5d2b10d88b65ef"
     },
     {
         "path": "informasi/apa-itu-mpls-ramah",
@@ -162,7 +162,7 @@
     {
         "path": "/informasi/apa-itu-mpls-ramah/index.html",
         "type": "file",
-        "md5": "c3b804261b642fcf99d0c3acb7101f87"
+        "md5": "1200c4ae54a1ac07b3b774a2551ec57a"
     },
     {
         "path": "informasi/hari-libur-dan-cuti-bersama-2025-2026",
@@ -172,12 +172,22 @@
     {
         "path": "/informasi/hari-libur-dan-cuti-bersama-2025-2026/index.html",
         "type": "file",
-        "md5": "5eda0bbfcad8142eb145250ab42e204b"
+        "md5": "9c3c9ce1bc2e434d3ad0258eaea08aaf"
     },
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "27b9a97c4182d2c24e819af109c3c380"
+        "md5": "7e373c7314f21390d9ab42fb8cd27b79"
+    },
+    {
+        "path": "informasi/jadwal-pelajaran-2025-2026",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/informasi/jadwal-pelajaran-2025-2026/index.html",
+        "type": "file",
+        "md5": "cbab019e2868ff9119ca74a045bb4163"
     },
     {
         "path": "informasi/kalender-pendidikan-2025-2026",
@@ -187,7 +197,7 @@
     {
         "path": "/informasi/kalender-pendidikan-2025-2026/index.html",
         "type": "file",
-        "md5": "c48d4b99a9397462c04cd7891d4d00d8"
+        "md5": "3b94bab428dbce0f5d29b66bc66a5082"
     },
     {
         "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
@@ -197,7 +207,7 @@
     {
         "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
         "type": "file",
-        "md5": "b7e670784e8999e9bc6b06a9af853fcd"
+        "md5": "135364d6b3da837512114d89ba71c7cc"
     },
     {
         "path": "kategori",
@@ -212,7 +222,7 @@
     {
         "path": "/kategori/2023-2024/index.html",
         "type": "file",
-        "md5": "caa38ecd1be6e9211ee460a88c779cc6"
+        "md5": "2d63b7149ae2f66ab4a3f07931b6bf20"
     },
     {
         "path": "kategori/2025-2026",
@@ -222,12 +232,12 @@
     {
         "path": "/kategori/2025-2026/index.html",
         "type": "file",
-        "md5": "d77af787ff5a610b4a475f40131d138e"
+        "md5": "b6c888b93d100e56f1d4bdc36544d258"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "c306159e00a028713dd60da3160cbb06"
+        "md5": "4834af339e4fd0523aaff8043820e930"
     },
     {
         "path": "kategori/umum",
@@ -237,7 +247,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "00daf809f6e840f314f5bde1d7dc984a"
+        "md5": "b1beb2b26d8a2af26d915a775ce64945"
     },
     {
         "path": "kontak",
@@ -247,7 +257,7 @@
     {
         "path": "/kontak/index.html",
         "type": "file",
-        "md5": "4c98cd853a197edb5ffbbd5901972661"
+        "md5": "12cc90824e4897a30bd542afed2d5a62"
     },
     {
         "path": "media",
@@ -627,12 +637,12 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "1bf61aa93e40d7028e6920b61ccd8d1f"
+        "md5": "1959637e3a14d96c0a0243d95fd132fe"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "08a49457dd6a22449054fae17c8501c0"
+        "md5": "cd41f3fd3ab8547d7066679c4e6a053c"
     },
     {
         "path": "selayang-pandang",
@@ -642,12 +652,12 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "8a35a0d3aebb7367a1525524aa07c3cb"
+        "md5": "e681d7af8c741d0bfe61975a0646769a"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e3f8fc7c5a7a5b247f00acf693e9e9e0"
+        "md5": "0dd0650bef0a815fa6f29e6e66fea3a2"
     },
     {
         "path": "sitemap.xsl",
@@ -662,7 +672,7 @@
     {
         "path": "/struktur-organisasi/index.html",
         "type": "file",
-        "md5": "e87cea68194d9033acb3be54933a0aa7"
+        "md5": "135c474e86156ad46985550bcea73d5b"
     },
     {
         "path": "visi-dan-misi",
@@ -672,7 +682,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "f864f00e99b07b1c8ef520c966c309ed"
+        "md5": "ae11ddb119d36762aaf8833dcd165347"
     },
     {
         "path": "_headers",

@@ -3,12 +3,446 @@
     <title>SDN Sungai Dalam 1</title>
     <link href="https://sdnsungaidalam1.netlify.app/feed.xml" rel="self" />
     <link href="https://sdnsungaidalam1.netlify.app" />
-    <updated>2025-07-11T09:29:43+08:00</updated>
+    <updated>2025-07-13T15:04:11+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
     <id>https://sdnsungaidalam1.netlify.app</id>
 
+    <entry>
+        <title>Jadwal pelajaran 2025-2026</title>
+        <author>
+            <name>Deddy Hidayat</name>
+        </author>
+        <link href="https://sdnsungaidalam1.netlify.app/informasi/jadwal-pelajaran-2025-2026/"/>
+        <id>https://sdnsungaidalam1.netlify.app/informasi/jadwal-pelajaran-2025-2026/</id>
+            <category term="2025-2026"/>
+
+        <updated>2025-07-13T13:12:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                    /* Global styles for the body */ /* Main container styling */ .jadwal-pelajaran-2025-2026 { background-color: #ffffff; border-radius: 12px; box-shadow: 0&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>  <style>
+        /* Global styles for the body */
+   
+
+        /* Main container styling */
+        .jadwal-pelajaran-2025-2026 {
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            padding: 2rem;
+            margin: 2rem auto;
+            max-width: 1200px;
+            overflow-x: auto;
+        }
+
+        /* Heading styles within the main container */
+        .jadwal-pelajaran-2025-2026 h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            text-align: center;
+            color: #4a4a4a; /* Abu-abu gelap untuk judul utama */
+            margin-bottom: 1rem;
+        }
+
+        .jadwal-pelajaran-2025-2026 h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            text-align: center;
+            color: #5c5c5c; /* Abu-abu sedikit lebih terang untuk sub-judul */
+            margin-bottom: 0.5rem;
+        }
+
+        .jadwal-pelajaran-2025-2026 p {
+            font-size: 1.125rem;
+            text-align: center;
+            color: #777; /* Abu-abu menengah untuk paragraf */
+            margin-bottom: 1.5rem;
+        }
+
+        /* Dropdown container styling */
+        .jadwal-pelajaran-2025-2026 .class-selector-dropdown-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            gap: 1rem;
+        }
+
+        /* Dropdown select styling */
+        .jadwal-pelajaran-2025-2026 #classSelectorDropdown {
+            padding: 0.5rem 2.5rem 0.5rem 1rem; /* Menambah padding kanan untuk ikon */
+            font-size: 0.9rem;
+            border-radius: 8px;
+            border: 1px solid #ccc; /* Border abu-abu netral */
+            background-color: #f0f0f0; /* Latar belakang abu-abu terang */
+            color: #333;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            appearance: none;
+            /* Menggunakan SVG panah bawah yang lebih sederhana */
+            background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%20fill%3D%22%234a5568%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M5.293%207.293a1%201%200%20011.414%200L10%2010.586l3.293-3.293a1%201%200%20111.414%201.414l-4%204a1%201%200%2001-1.414%200l-4-4a1%201%200%20010-1.414z%22%20clip-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E');
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center; /* Sesuaikan posisi ikon */
+            background-size: 1.2em auto; /* Ukuran ikon */
+        }
+
+        .jadwal-pelajaran-2025-2026 #classSelectorDropdown:hover {
+            border-color: #888; /* Border lebih gelap saat hover */
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .jadwal-pelajaran-2025-2026 #classSelectorDropdown:focus {
+            outline: none;
+            border-color: #666; /* Border lebih gelap saat fokus */
+            box-shadow: 0 0 0 3px rgba(102, 102, 102, 0.2);
+        }
+
+        /* Table container styling */
+        .jadwal-pelajaran-2025-2026 .table-container {
+            overflow-x: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Table styling within the main container */
+        .jadwal-pelajaran-2025-2026 table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 0;
+        }
+
+        /* Table header and data cell styling within the main container */
+        .jadwal-pelajaran-2025-2026 th,
+        .jadwal-pelajaran-2025-2026 td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e5e5; /* Border abu-abu terang */
+        }
+
+        /* Table header specific styling within the main container */
+        .jadwal-pelajaran-2025-2026 th {
+            background-color: #666; /* Abu-abu gelap untuk header tabel */
+            color: #ffffff;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        /* Rounded corners for first and last table headers */
+        .jadwal-pelajaran-2025-2026 th:first-child {
+            border-top-left-radius: 8px;
+        }
+        .jadwal-pelajaran-2025-2026 th:last-child {
+            border-top-right-radius: 8px;
+        }
+
+        /* Remove bottom border for last row cells */
+        .jadwal-pelajaran-2025-2026 tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Table row transition for hover effect */
+        .jadwal-pelajaran-2025-2026 tr {
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        /* Table row hover effect */
+        .jadwal-pelajaran-2025-2026 tr:hover {
+            background-color: #f5f5f5; /* Abu-abu sangat terang saat hover */
+            transform: translateY(-2px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        /* Specific cell styling for 'Istirahat' and 'Istirahat dan Shalat Berjamaah' */
+        .jadwal-pelajaran-2025-2026 .text-center-bg-gray {
+            text-align: center;
+            background-color: #ececec; /* Abu-abu terang untuk sel istirahat */
+            font-weight: 500;
+        }
+
+        /* Media Queries for Responsiveness */
+        @media (max-width: 768px) {
+            .jadwal-pelajaran-2025-2026 {
+                padding: 1rem;
+                margin: 1rem auto;
+            }
+
+            .jadwal-pelajaran-2025-2026 h1 {
+                font-size: 1.5rem; /* Perkecil ukuran font untuk layar kecil */
+            }
+
+            .jadwal-pelajaran-2025-2026 h2 {
+                font-size: 1.25rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 p {
+                font-size: 1rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 th,
+            .jadwal-pelajaran-2025-2026 td {
+                padding: 0.5rem 0.75rem; /* Perkecil padding sel tabel */
+            }
+
+            .jadwal-pelajaran-2025-2026 #classSelectorDropdown {
+                font-size: 0.85rem;
+                padding: 0.4rem 2rem 0.4rem 0.8rem; /* Sesuaikan padding dropdown */
+                background-position: right 0.6rem center;
+                background-size: 1em auto;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .jadwal-pelajaran-2025-2026 {
+                padding: 0.75rem;
+                margin: 0.5rem auto;
+            }
+
+            .jadwal-pelajaran-2025-2026 h1 {
+                font-size: 1.25rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 h2 {
+                font-size: 1rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 p {
+                font-size: 0.875rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 th,
+            .jadwal-pelajaran-2025-2026 td {
+                padding: 0.4rem 0.6rem;
+            }
+
+            .jadwal-pelajaran-2025-2026 #classSelectorDropdown {
+                font-size: 0.8rem;
+                padding: 0.3rem 1.8rem 0.3rem 0.6rem;
+                background-position: right 0.5rem center;
+                background-size: 0.9em auto;
+            }
+        }
+    </style>
+
+    <div class="jadwal-pelajaran-2025-2026">
+    
+        <div class="class-selector-dropdown-container">
+            <label for="classSelectorDropdown">Pilih Kelas:</label>
+            <select id="classSelectorDropdown">
+                <!-- Options will be dynamically injected by JavaScript -->
+            </select>
+        </div>
+
+        <div class="table-container">
+            <table id="scheduleTable">
+                <thead>
+                    <tr>
+                        <th>Kelas</th>
+                        <th>Jam</th>
+                        <th>Waktu</th>
+                        <th>Durasi</th>
+                        <th>Senin</th>
+                        <th>Selasa</th>
+                        <th>Rabu</th>
+                        <th>Kamis</th>
+                        <th>Sabtu</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Schedule rows will be dynamically loaded here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const scheduleTable = document.getElementById('scheduleTable');
+            const tableBody = scheduleTable.querySelector('tbody');
+            const classSelectorDropdown = document.getElementById('classSelectorDropdown');
+
+            // Struktur umum untuk blok jam pelajaran
+            const commonJamBlocks = [
+                { jam: "1", waktu: "8:05 - 8:40", durasi: "0:35 Menit" },
+                { jam: "2", waktu: "8:40 - 9:15", durasi: "0:35 Menit" },
+                { jam: "3", waktu: "9:15 - 9:50", durasi: "0:35 Menit" },
+                { jam: "", waktu: "9:50 - 10:05", durasi: "0:15 Menit", type: "istirahat" },
+                { jam: "4", waktu: "10:05 - 10:40", durasi: "0:35 Menit" },
+                { jam: "5", waktu: "10:40 - 11:15", durasi: "0:35 Menit" },
+                { jam: "6", waktu: "11:15 - 11:50", durasi: "0:35 Menit" },
+                { jam: "", waktu: "11:50 - 12:40", durasi: "0:50 Menit", type: "istirahat-shalat" },
+                { jam: "7", waktu: "12:40 - 13:15", durasi: "0:35 Menit" }
+            ];
+
+            // Data mata pelajaran per kelas dan per jam, disesuaikan dari PDF
+            // Urutan mata pelajaran dalam array: Senin, Selasa, Rabu, Kamis, Jum'at, Sabtu
+            const subjectsByClassAndJam = {
+                "1": {
+                    "1": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "2": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"],
+                    "3": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"],
+                    "4": ["Bahasa Indonesia", "PKN", "Matematika", "Seni budaya", "Muatan Lokal", "P5"],
+                    "5": ["PKN", "PKN", "Matematika", "Seni budaya", "Muatan Lokal", "P5"],
+                    "6": ["PKN", "Seni budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Bahasa Inggris", "Seni Budaya", "Seni Budaya", "Muatan Lokal", "", ""]
+                },
+                "2": {
+                    "1": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "2": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "3": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"],
+                    "4": ["Bahasa Indonesia", "PKN", "Matematika", "Seni budaya", "Muatan Lokal", "P5"],
+                    "5": ["PKN", "PKN", "Matematika", "Seni budaya", "Muatan Lokal", "P5"],
+                    "6": ["PKN", "Seni budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Bahasa Inggris", "Seni Budaya", "Seni Budaya", "Muatan Lokal", "", ""]
+                },
+                "3": {
+                    "1": ["Seni Budaya", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "2": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "3": ["Seni Budaya", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"],
+                    "4": ["PKN", "Matematika", "Bahasa Indonesia", "IPAS", "PKN", "P5"],
+                    "5": ["PKN", "Matematika", "Bahasa Indonesia", "IPAS", "PKN", "P5"],
+                    "6": ["Bahasa Inggris", "Seni Budaya", "Bahasa Indonesia", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Seni Budaya", "Seni Budaya", "Bahasa Inggris", "Muatan Lokal", "", ""]
+                },
+                "4": {
+                    "1": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "2": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"], // Menggunakan data dari kelas lain karena kurang spesifik di PDF
+                    "3": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"], // Menggunakan data dari kelas lain
+                    "4": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "5": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "6": ["PKN", "Seni Budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Bahasa Inggris", "Seni Budaya", "Seni Budaya", "Muatan Lokal", "", ""]
+                },
+                "5": {
+                    "1": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "2": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"], // Menggunakan data dari kelas lain
+                    "3": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"], // Menggunakan data dari kelas lain
+                    "4": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "5": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"],
+                    "6": ["PKN", "Seni Budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Bahasa Inggris", "Seni Budaya", "Seni Budaya", "Muatan Lokal", "", ""]
+                },
+                "6": {
+                    "1": ["PKN", "Seni Budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "2": ["Matematika", "Bahasa Indonesia", "Bahasa Indonesia", "PAI", "PJOK", "P5"], // Menggunakan data dari kelas lain
+                    "3": ["Bahasa Indonesia", "Matematika", "Bahasa Indonesia", "PJOK", "PAI", "P5"], // Menggunakan data dari kelas lain
+                    "4": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"], // Menggunakan data dari kelas lain
+                    "5": ["Seni Budaya", "PKN", "Matematika", "PKN", "Muatan Lokal", "P5"], // Menggunakan data dari kelas lain
+                    "6": ["PKN", "Seni Budaya", "Bahasa Inggris", "Muatan Lokal", "P5", "P5"],
+                    "7": ["Bahasa Inggris", "Seni Budaya", "Seni Budaya", "Muatan Lokal", "", ""]
+                }
+            };
+
+            // Fungsi untuk mendapatkan mata pelajaran untuk kelas dan jam tertentu
+            // Mengeluarkan kolom Jum'at (indeks 4)
+            function getSubjectsForClassAndJam(classNumber, jamNumber) {
+                const classData = subjectsByClassAndJam[classNumber];
+                if (classData && classData[jamNumber]) {
+                    const allSubjects = classData[jamNumber];
+                    // Mengambil Senin (0), Selasa (1), Rabu (2), Kamis (3), Sabtu (5)
+                    return [allSubjects[0], allSubjects[1], allSubjects[2], allSubjects[3], allSubjects[5]];
+                }
+                return ["", "", "", "", ""]; // Mengembalikan 5 kolom kosong jika tidak ada data
+            }
+
+            // Data jadwal pelajaran per kelas
+            const schedulesByClass = {};
+            for (let i = 1; i <= 6; i++) {
+                const classNum = String(i);
+                schedulesByClass[classNum] = [];
+                commonJamBlocks.forEach((block, index) => {
+                    const row = [];
+                    // Kolom "Kelas": hanya untuk baris pertama kelas
+                    row.push(index === 0 ? classNum : "");
+                    // Kolom "Jam"
+                    row.push(block.jam);
+                    // Kolom "Waktu" dan "Durasi"
+                    row.push(block.waktu, block.durasi);
+
+                    // Mata pelajaran
+                    if (block.type === "istirahat") {
+                        row.push("Istirahat"); // Hanya satu sel untuk Istirahat yang akan di-colspan
+                    } else if (block.type === "istirahat-shalat") {
+                        row.push("Istirahat dan Shalat Berjamaah"); // Hanya satu sel untuk Istirahat dan Shalat Berjamaah
+                    } else {
+                        const subjects = getSubjectsForClassAndJam(classNum, block.jam);
+                        row.push(...subjects);
+                    }
+                    schedulesByClass[classNum].push(row);
+                });
+            }
+
+            let currentClass = "1"; // Kelas yang sedang aktif, default ke Kelas 1
+
+            // Fungsi untuk merender jadwal berdasarkan kelas yang dipilih
+            function renderSchedule(classNumber) {
+                tableBody.innerHTML = ''; // Kosongkan tabel
+
+                let dataToRender = schedulesByClass[classNumber];
+
+                if (dataToRender) {
+                    dataToRender.forEach(rowData => {
+                        const row = document.createElement('tr');
+                        rowData.forEach((cellData, index) => {
+                            const cell = document.createElement('td');
+                            cell.textContent = cellData;
+                            // Tambahkan colspan untuk sel istirahat jika sesuai
+                            // Istirahat diharapkan berada di kolom 'Senin' (indeks 4)
+                            if (index === 4 && (cellData === "Istirahat" || cellData === "Istirahat dan Shalat Berjamaah")) {
+                                cell.setAttribute('colspan', '5'); // Mencakup 5 kolom mata pelajaran (Senin, Selasa, Rabu, Kamis, Sabtu)
+                                cell.classList.add('text-center-bg-gray'); // Apply custom class
+                                row.appendChild(cell);
+                            } else if (index > 4 && (rowData[4] === "Istirahat" || rowData[4] === "Istirahat dan Shalat Berjamaah")) {
+                                // Jika sel mata pelajaran pertama (indeks 4) adalah istirahat,
+                                // maka sel mata pelajaran berikutnya di baris ini tidak perlu dirender.
+                                return;
+                            } else {
+                                // Untuk sel mata pelajaran biasa atau kolom awal (Kelas, Jam, Waktu, Durasi)
+                                row.appendChild(cell);
+                            }
+                        });
+                        tableBody.appendChild(row);
+                    });
+                }
+            }
+
+            // Fungsi untuk mengisi dropdown dengan opsi kelas
+            function populateClassDropdown() {
+                for (let i = 1; i <= 6; i++) {
+                    const option = document.createElement('option');
+                    option.value = String(i);
+                    option.textContent = `Kelas ${i}`;
+                    classSelectorDropdown.appendChild(option);
+                }
+                // Set nilai default dropdown
+                classSelectorDropdown.value = currentClass;
+            }
+
+            // Inisialisasi
+            populateClassDropdown();
+            renderSchedule(currentClass); // Render jadwal kelas 1 saat pertama kali dimuat
+
+            // Event listener untuk perubahan dropdown
+            classSelectorDropdown.addEventListener('change', function() {
+                currentClass = this.value;
+                renderSchedule(currentClass);
+            });
+        });
+    </script>
+
+
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Analisis Kalender Pendidikan 2025/2026</title>
         <author>

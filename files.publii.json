@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "59f47f923dc826e7f254cb2d9b26b4d0"
+        "md5": "9490b142d3667b670c5ab002ec0013c7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1e9be9bc922b947a5d414aed3a27ebba"
+        "md5": "7b57888670b54e2bb8707d07d5125156"
     },
     {
         "path": "guru",
@@ -132,12 +132,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "4e4265f73167e0e5c6a9584c9080f29f"
+        "md5": "8836d69b76be878cc1d7dac461dc1f41"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cd11f8f0c294af044ff57902604c831e"
+        "md5": "e4eaefff4a234f8b3c2b5b2822ece6ce"
     },
     {
         "path": "informasi",
@@ -172,12 +172,12 @@
     {
         "path": "/informasi/hari-libur-dan-cuti-bersama-2025-2026/index.html",
         "type": "file",
-        "md5": "9c3c9ce1bc2e434d3ad0258eaea08aaf"
+        "md5": "374d047173565aa0295558940417a021"
     },
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "7e373c7314f21390d9ab42fb8cd27b79"
+        "md5": "5fd43b8fe95ac97ec14a0a85db391307"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -187,7 +187,7 @@
     {
         "path": "/informasi/jadwal-pelajaran-2025-2026/index.html",
         "type": "file",
-        "md5": "cbab019e2868ff9119ca74a045bb4163"
+        "md5": "d3935f85f656624b64fabfa079d90883"
     },
     {
         "path": "informasi/kalender-pendidikan-2025-2026",
@@ -207,7 +207,17 @@
     {
         "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
         "type": "file",
-        "md5": "135364d6b3da837512114d89ba71c7cc"
+        "md5": "d0219bbb07bd0c132bdf3b911fec4478"
+    },
+    {
+        "path": "informasi/selamat-hari-anak-nasional-2025-pagiceriahan2025",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/informasi/selamat-hari-anak-nasional-2025-pagiceriahan2025/index.html",
+        "type": "file",
+        "md5": "0f4c2739f5dc4621fd7c0143ed48791d"
     },
     {
         "path": "kategori",
@@ -232,12 +242,12 @@
     {
         "path": "/kategori/2025-2026/index.html",
         "type": "file",
-        "md5": "b6c888b93d100e56f1d4bdc36544d258"
+        "md5": "450a8c4f27f99aff554744b992679368"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "4834af339e4fd0523aaff8043820e930"
+        "md5": "cbc2f0adc16dd7e1661868a91b9fd091"
     },
     {
         "path": "kategori/umum",
@@ -657,7 +667,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0dd0650bef0a815fa6f29e6e66fea3a2"
+        "md5": "823fbca503824030ec4647a049dcca23"
     },
     {
         "path": "sitemap.xsl",

@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "65d686c505d6d3da1494ebbc304d96fe"
+        "md5": "4a109c9d15fd4ab21d05c957abb43b84"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e1b3ded23dc342a339a5eb76af93051c"
+        "md5": "04762180cdd3ae5c4f5a94bb714cfb21"
     },
     {
         "path": "guru",
@@ -137,7 +137,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dd029e1fbcc61d317a3435511911ba28"
+        "md5": "4389b5659bc9cb8915a238b932b3fd35"
     },
     {
         "path": "informasi",
@@ -152,7 +152,7 @@
     {
         "path": "/informasi/alamat-baru-info-gtk-2026/index.html",
         "type": "file",
-        "md5": "6484fd2a42f85c49489fdb900e2ccecf"
+        "md5": "6476322a4d0626238f51529259480290"
     },
     {
         "path": "informasi/analisis-kalender-pendidikan-2025-2026",
@@ -187,7 +187,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "2d8469108a18a68db3c7f667a3b5ccce"
+        "md5": "f9bda49bfab227441a27c193479125d6"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",

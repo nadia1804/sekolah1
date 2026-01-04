@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9490b142d3667b670c5ab002ec0013c7"
+        "md5": "65d686c505d6d3da1494ebbc304d96fe"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7b57888670b54e2bb8707d07d5125156"
+        "md5": "e1b3ded23dc342a339a5eb76af93051c"
     },
     {
         "path": "guru",
@@ -122,7 +122,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "f3c9c4f19fd8c80f13bd19e6023b9ea9"
+        "md5": "9485f37593b5ae2aa187606da2ba8fff"
     },
     {
         "path": "guru/ispandi",
@@ -137,12 +137,22 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dadfd2d779ee376ac36719a62ef16f03"
+        "md5": "dd029e1fbcc61d317a3435511911ba28"
     },
     {
         "path": "informasi",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "informasi/alamat-baru-info-gtk-2026",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/informasi/alamat-baru-info-gtk-2026/index.html",
+        "type": "file",
+        "md5": "6484fd2a42f85c49489fdb900e2ccecf"
     },
     {
         "path": "informasi/analisis-kalender-pendidikan-2025-2026",
@@ -177,7 +187,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "a54f321a9fa8a296ac9a328d6d071537"
+        "md5": "2d8469108a18a68db3c7f667a3b5ccce"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -217,7 +227,7 @@
     {
         "path": "/informasi/selamat-hari-anak-nasional-2025-pagiceriahan2025/index.html",
         "type": "file",
-        "md5": "0605e0129cc2410d26240074be6b206f"
+        "md5": "a99cea1481e9c1c5e61d45d7f896c2e1"
     },
     {
         "path": "kategori",
@@ -247,7 +257,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "db756fa7c2adb3244eec77ce28ca2189"
+        "md5": "4fab624deb72d7165d0287f5c8ccf8b0"
     },
     {
         "path": "kategori/umum",
@@ -257,7 +267,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "8d572a468f21596c6d517ee661908e85"
+        "md5": "264c29960d579f534da1dbbed74e981b"
     },
     {
         "path": "kontak",
@@ -667,7 +677,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "823fbca503824030ec4647a049dcca23"
+        "md5": "f5aa9f1bf59d144a5836e959be10c4e8"
     },
     {
         "path": "sitemap.xsl",

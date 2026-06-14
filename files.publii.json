@@ -147,7 +147,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b78691abda83c1a87829201c46036db6"
+        "md5": "8c243f874d97f7ac4068f0d164639ce6"
     },
     {
         "path": "informasi",
@@ -197,7 +197,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "2a3d01b44e1b24f757faa678148ba05d"
+        "md5": "df0b26ae3745556c96a1a6b67f1e89dc"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -657,7 +657,7 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "21fc5dfb7d24932d7cd012cc74db5566"
+        "md5": "7a775bc9161cc0bf3be84e97bfecd783"
     },
     {
         "path": "search.html",
@@ -677,7 +677,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5348ab1c7acb7134e44c2826fd300bbf"
+        "md5": "2081d74fe613ca6b69bc1b02a122bebb"
     },
     {
         "path": "sitemap.xsl",

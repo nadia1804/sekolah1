@@ -25,6 +25,16 @@
         "md5": "a864de625ebfa2e756b86f125bf0fda5"
     },
     {
+        "path": "alumni-2025-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/alumni-2025-2/index.html",
+        "type": "file",
+        "md5": "a10f67c8cd862b017a4c9a252380e398"
+    },
+    {
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -107,7 +117,7 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "04762180cdd3ae5c4f5a94bb714cfb21"
+        "md5": "ead224fc7ca20527ee9dc655c5cd4a57"
     },
     {
         "path": "guru",
@@ -137,7 +147,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4389b5659bc9cb8915a238b932b3fd35"
+        "md5": "4ad52e84fd7181ab881710f3a947ce40"
     },
     {
         "path": "informasi",
@@ -187,7 +197,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "f9bda49bfab227441a27c193479125d6"
+        "md5": "7c3a99304668d1d9fdadbddc287f961a"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -235,16 +245,6 @@
         "md5": false
     },
     {
-        "path": "kategori/2023-2024",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/kategori/2023-2024/index.html",
-        "type": "file",
-        "md5": "a237c4e92c15c0a4ecf7805b5df978d6"
-    },
-    {
         "path": "kategori/2025-2026",
         "type": "directory",
         "md5": false
@@ -257,7 +257,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "4fab624deb72d7165d0287f5c8ccf8b0"
+        "md5": "81ad5fe1f3fd3d7f809be6a719af0fcf"
     },
     {
         "path": "kategori/umum",
@@ -267,7 +267,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "264c29960d579f534da1dbbed74e981b"
+        "md5": "8f1a6b0f11624397bb9d79b82eb0d83b"
     },
     {
         "path": "kontak",
@@ -677,7 +677,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f5aa9f1bf59d144a5836e959be10c4e8"
+        "md5": "5348ab1c7acb7134e44c2826fd300bbf"
     },
     {
         "path": "sitemap.xsl",

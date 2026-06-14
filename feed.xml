@@ -19,7 +19,7 @@
             <category term="Umum"/>
 
         <updated>2026-01-04T11:53:29+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>informasi terbaru perubahan alamat info gtk menjadi url yang baru</p>
 
@@ -45,7 +45,7 @@
             <category term="2025-2026"/>
 
         <updated>2025-07-23T20:52:38+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     PagiCeriaHAN2025 Pada hari rabu, 23 juli 2025. SDN Sungai Dalam 1 ikut serta memeriahkan perayaan peringatan Hari Anak Nasional 2025&hellip;
                 ]]>
@@ -69,7 +69,7 @@
             <category term="2025-2026"/>
 
         <updated>2025-07-13T13:12:29+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     /* Global styles for the body */ /* Main container styling */ .jadwal-pelajaran-2025-2026 { background-color: #ffffff; border-radius: 12px; box-shadow: 0&hellip;
                 ]]>
@@ -503,7 +503,7 @@
             <category term="2025-2026"/>
 
         <updated>2025-07-10T22:13:39+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Berdasarkan Keputusan Kepala Dinas Pendidikan dan Kebudayaan Kabupaten Hulu Sungai Utara (Bab II – IX) Dilaksanakan 📅 1 hari setelah&hellip;
                 ]]>
@@ -682,7 +682,7 @@
             <category term="2025-2026"/>
 
         <updated>2025-07-10T21:59:00+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     .table-kaldik-lapiran1-2025-2026-kontainer { max-width: 100%; overflow-x: auto; padding: 1rem; box-sizing: border-box; margin: auto; font-family: "Segoe UI", sans-serif; } .table-kaldik-lapiran1-2025-2026-kontainer h2 {&hellip;
                 ]]>
@@ -819,7 +819,7 @@ function filterKaldikByMonth() {
             <category term="2025-2026"/>
 
         <updated>2025-07-10T21:01:29+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     /* Kelas umum kalender */ #kaldik2025-2026.kaldik2025-2026 { max-width: 1000px; margin: auto; } /* Pastikan teks event berwarna hitam */ .fc-event&hellip;
                 ]]>
@@ -963,7 +963,7 @@ function filterKaldikByMonth() {
             <category term="Umum"/>
 
         <updated>2025-07-08T18:08:11+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     🔹 Pengertian MPLS Ramah adalah kegiatan awal untuk murid baru yang dirancang dengan prinsip memuliakan hak anak dan memperkuat karakter.
                 ]]>
@@ -1122,7 +1122,7 @@ Tentang MPLS (Paud, SD, Dan SMP)</a></li>
         <id>https://sdnsungaidalam1.netlify.app/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/</id>
 
         <updated>2025-07-03T10:28:47+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     📌 Lampiran peraturan menteri: rincian beban kerja dan tugas tambahan guru sumber: lampiran peraturan menteri pendidikan dasar dan menengah republik&hellip;
                 ]]>

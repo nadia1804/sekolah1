@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "33d18304751fd9240a5fa369a2ec9090"
+        "md5": "39c3f05ffd90c54c3b233287c1e6cbb3"
     },
     {
         "path": "alumni-2024",
@@ -12,7 +12,7 @@
     {
         "path": "/alumni-2024/index.html",
         "type": "file",
-        "md5": "9eb955c7328bf955124860896240a04d"
+        "md5": "a99f328356043f3ab5e63a274301e468"
     },
     {
         "path": "alumni-2025",
@@ -22,7 +22,7 @@
     {
         "path": "/alumni-2025/index.html",
         "type": "file",
-        "md5": "9aa7a08f9f5c6b8278b9e9c05c9af6d7"
+        "md5": "03f3b56871b0bc7e60af1fc9d37d65a8"
     },
     {
         "path": "alumni-2025-2",
@@ -32,7 +32,7 @@
     {
         "path": "/alumni-2025-2/index.html",
         "type": "file",
-        "md5": "a7623ec8ad6526a32241edd5bc00570e"
+        "md5": "0a40e010ee950cb81c8f0d2ad8e53a33"
     },
     {
         "path": "assets",
@@ -107,17 +107,17 @@
     {
         "path": "/dewan-guru/index.html",
         "type": "file",
-        "md5": "874964d1f904e1daf2a65aa7588c0ef4"
+        "md5": "7b2e1cd782586724aecb4e069528d901"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4a109c9d15fd4ab21d05c957abb43b84"
+        "md5": "cbbda47f2425b231e84a8d092c5302f6"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ead224fc7ca20527ee9dc655c5cd4a57"
+        "md5": "035b5f13b05e5e0f8d512c7949d4c689"
     },
     {
         "path": "guru",
@@ -132,7 +132,7 @@
     {
         "path": "/guru/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "e9ce268ea9d685cf29dac056417cce83"
+        "md5": "d48a3a2e8703c9e4a53c0a001b3ad4da"
     },
     {
         "path": "guru/ispandi",
@@ -142,12 +142,12 @@
     {
         "path": "/guru/ispandi/index.html",
         "type": "file",
-        "md5": "3635cdd9e3eb1b812149cb4235b059b4"
+        "md5": "633e11ee32f9dd632aec92d34855d195"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0390c8378b92f6630c8d23c1d334e7c3"
+        "md5": "edc9aedfa9cac923368d5bc51749f6cb"
     },
     {
         "path": "informasi",
@@ -162,7 +162,7 @@
     {
         "path": "/informasi/alamat-baru-info-gtk-2026/index.html",
         "type": "file",
-        "md5": "ca3bbcfccd49c0bbfc9cb57c119291a5"
+        "md5": "60f092933f68bbe2d90c034441fb1f64"
     },
     {
         "path": "informasi/analisis-kalender-pendidikan-2025-2026",
@@ -172,7 +172,7 @@
     {
         "path": "/informasi/analisis-kalender-pendidikan-2025-2026/index.html",
         "type": "file",
-        "md5": "d427bd6e4f5c7205db79549b93a2ace8"
+        "md5": "7a676ef55a52baeef1b575b145b55c5b"
     },
     {
         "path": "informasi/apa-itu-mpls-ramah",
@@ -182,7 +182,7 @@
     {
         "path": "/informasi/apa-itu-mpls-ramah/index.html",
         "type": "file",
-        "md5": "f750086f0a6351988b611c3f087210e4"
+        "md5": "46ccaa3bf3262536f5c78c950e986724"
     },
     {
         "path": "informasi/hari-libur-dan-cuti-bersama-2025-2026",
@@ -192,12 +192,12 @@
     {
         "path": "/informasi/hari-libur-dan-cuti-bersama-2025-2026/index.html",
         "type": "file",
-        "md5": "07eec95d366cdd7b6867eeaca802dc44"
+        "md5": "551601a9ff2938879e7e9e15810fddcc"
     },
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "2e7b3c36a05f79018197e7e048b88fca"
+        "md5": "e15eb98eb20a69c7010b54118e462f08"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -207,7 +207,7 @@
     {
         "path": "/informasi/jadwal-pelajaran-2025-2026/index.html",
         "type": "file",
-        "md5": "53201733695d03a81572d6a0634c1092"
+        "md5": "121ab4f3f0a947d57fdabfe6b674faca"
     },
     {
         "path": "informasi/kalender-pendidikan-2025-2026",
@@ -217,7 +217,7 @@
     {
         "path": "/informasi/kalender-pendidikan-2025-2026/index.html",
         "type": "file",
-        "md5": "60789049e3f45b949a70d21075e893cc"
+        "md5": "655b009960f17797688ca031bb1090d3"
     },
     {
         "path": "informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru",
@@ -227,7 +227,7 @@
     {
         "path": "/informasi/rincian-beban-kerja-dan-tugas-tambahan-guru-2025-terbaru/index.html",
         "type": "file",
-        "md5": "03f2ef7d40edbb75bd71edd63cfef15f"
+        "md5": "13ce8414acb1e67ced6c1d242fda57c2"
     },
     {
         "path": "informasi/selamat-hari-anak-nasional-2025-pagiceriahan2025",
@@ -237,7 +237,7 @@
     {
         "path": "/informasi/selamat-hari-anak-nasional-2025-pagiceriahan2025/index.html",
         "type": "file",
-        "md5": "1956c4a44702da2700e08a8808fe625c"
+        "md5": "3290d4b0bd32c4cfeec532045383993a"
     },
     {
         "path": "kategori",
@@ -252,12 +252,12 @@
     {
         "path": "/kategori/2025-2026/index.html",
         "type": "file",
-        "md5": "1d3cafca4884e07553222179ef0347a4"
+        "md5": "0a95f3587bb54c5032c72bd6360cd7e2"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "6e5072fa4d5d69495db6bc15a3ef54b7"
+        "md5": "bbc413cb05763d3815a98ce4e9d83ce1"
     },
     {
         "path": "kategori/umum",
@@ -267,7 +267,7 @@
     {
         "path": "/kategori/umum/index.html",
         "type": "file",
-        "md5": "0766946c35c558627d0509123e5f79ce"
+        "md5": "703200ff2772c857f30883889eaef497"
     },
     {
         "path": "kontak",
@@ -277,162 +277,12 @@
     {
         "path": "/kontak/index.html",
         "type": "file",
-        "md5": "285ec8a35b0e9c8d857fbb45bc3615df"
+        "md5": "456aacd8a1576b976791664a25342a60"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/plugins",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/plugins/coreLightboxGallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
-        "type": "file",
-        "md5": "b505ee081119c5be142e0dbac4762f99"
-    },
-    {
-        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
-        "type": "file",
-        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
-    },
-    {
-        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
-        "type": "file",
-        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
-    },
-    {
-        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
-        "type": "file",
-        "md5": "bbfcfcfc7aff4620107555b1d668227d"
-    },
-    {
-        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
-        "type": "file",
-        "md5": "80574f1ec4486c3613d668756ad7e600"
-    },
-    {
-        "path": "media/plugins/docSearch",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/docSearch/docsearch.min.css",
-        "type": "file",
-        "md5": "5f509c0dccaf0aaffb9fc8c0b9e1351c"
-    },
-    {
-        "path": "/media/plugins/docSearch/docsearch.min.js",
-        "type": "file",
-        "md5": "d59ba9b8392f352d8127a805b3df99b9"
-    },
-    {
-        "path": "media/plugins/pagePrefetching",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
-        "type": "file",
-        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
-    },
-    {
-        "path": "media/plugins/simpleLightboxGallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/simpleLightboxGallery/venobox.min.css",
-        "type": "file",
-        "md5": "930f3a77f1401f46699d08c218ad3969"
-    },
-    {
-        "path": "/media/plugins/simpleLightboxGallery/venobox.min.js",
-        "type": "file",
-        "md5": "5142acef8a10cb59560be26621ce59d5"
-    },
-    {
-        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
-        "type": "file",
-        "md5": "b505ee081119c5be142e0dbac4762f99"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
-        "type": "file",
-        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.esm.min.js",
-        "type": "file",
-        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.min.css",
-        "type": "file",
-        "md5": "bbfcfcfc7aff4620107555b1d668227d"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/coreLightboxGallery/photoswipe.umd.min.js",
-        "type": "file",
-        "md5": "80574f1ec4486c3613d668756ad7e600"
-    },
-    {
-        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch/docsearch.min.css",
-        "type": "file",
-        "md5": "5f509c0dccaf0aaffb9fc8c0b9e1351c"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/docSearch/docsearch.min.js",
-        "type": "file",
-        "md5": "d59ba9b8392f352d8127a805b3df99b9"
-    },
-    {
-        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/pagePrefetching",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/pagePrefetching/quicklink.umd.js",
-        "type": "file",
-        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
-    },
-    {
-        "path": "media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery/venobox.min.css",
-        "type": "file",
-        "md5": "930f3a77f1401f46699d08c218ad3969"
-    },
-    {
-        "path": "/media/plugins (Salinan berkonflik DESKTOP-85U58QQ 2025-07-07)/simpleLightboxGallery/venobox.min.js",
-        "type": "file",
-        "md5": "5142acef8a10cb59560be26621ce59d5"
     },
     {
         "path": "media/posts",
@@ -657,12 +507,12 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "3102b0ca69bf5bf43840cb6d0e4407b8"
+        "md5": "4ecb0a046a43e2cde296a8b729e488ec"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "28c5984a58efabcc725742695a0bec7b"
+        "md5": "821afa7d4dbd3eca05f9588496ce16eb"
     },
     {
         "path": "selayang-pandang",
@@ -672,12 +522,12 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "6678da53b00df26b034aa0d63365faf6"
+        "md5": "5070b11b9fd594b69b26387fa6e44a4a"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d6603efcdbb092bdd12f205ab6b09b3e"
+        "md5": "0caf65d99ad29a925c498a58c1edb0a0"
     },
     {
         "path": "sitemap.xsl",
@@ -692,7 +542,7 @@
     {
         "path": "/struktur-organisasi/index.html",
         "type": "file",
-        "md5": "73a57b141bc4dd586ff868e025bd7bd3"
+        "md5": "0d670d910b39ce79d5adf9e9473995c4"
     },
     {
         "path": "visi-dan-misi",
@@ -702,7 +552,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "6090a045bd952e52190c65c743f76d72"
+        "md5": "633d6d05e08e798c30eaccd201f9e7d5"
     },
     {
         "path": "_headers",

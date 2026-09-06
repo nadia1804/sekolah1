@@ -147,7 +147,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8c243f874d97f7ac4068f0d164639ce6"
+        "md5": "82b0019cbda6503ff5da03a3fe92a7d4"
     },
     {
         "path": "informasi",
@@ -197,7 +197,7 @@
     {
         "path": "/informasi/index.html",
         "type": "file",
-        "md5": "df0b26ae3745556c96a1a6b67f1e89dc"
+        "md5": "914f40167e8ca7579d0c0e4944ead4a3"
     },
     {
         "path": "informasi/jadwal-pelajaran-2025-2026",
@@ -657,7 +657,7 @@
     {
         "path": "/sambutan-kepala-sekolah/index.html",
         "type": "file",
-        "md5": "7a775bc9161cc0bf3be84e97bfecd783"
+        "md5": "3102b0ca69bf5bf43840cb6d0e4407b8"
     },
     {
         "path": "search.html",
@@ -672,12 +672,12 @@
     {
         "path": "/selayang-pandang/index.html",
         "type": "file",
-        "md5": "b2aa7366009612cfd11f381d9458f467"
+        "md5": "6678da53b00df26b034aa0d63365faf6"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2081d74fe613ca6b69bc1b02a122bebb"
+        "md5": "d6603efcdbb092bdd12f205ab6b09b3e"
     },
     {
         "path": "sitemap.xsl",
@@ -702,7 +702,7 @@
     {
         "path": "/visi-dan-misi/index.html",
         "type": "file",
-        "md5": "16629c06cdda402b83a68a2c78180dcb"
+        "md5": "6090a045bd952e52190c65c743f76d72"
     },
     {
         "path": "_headers",

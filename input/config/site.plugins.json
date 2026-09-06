@@ -1,0 +1,22 @@
+{
+    "comeBackBrowserTab": false,
+    "coreLightboxGallery": true,
+    "cusdisComments": true,
+    "disqusComments": false,
+    "docSearch": true,
+    "externalLinks": true,
+    "featherIcons": false,
+    "googleAnalyticsIntegration": true,
+    "googleCustomSearch": false,
+    "hyvorTalkComments": false,
+    "imageDecoding": true,
+    "lucideIcons": false,
+    "metaTabColors": true,
+    "pagePrefetching": true,
+    "securityTxt": false,
+    "simpleLightboxGallery": true,
+    "syntaxHighlighter": false,
+    "publii-mermaid-support-plugin-main": false,
+    "emailAddressObfuscation": false,
+    "readingTime": false
+}

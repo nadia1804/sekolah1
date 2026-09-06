@@ -1,0 +1,252 @@
+[
+    {
+        "name": "main menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1751028336793,
+                "label": "Beranda",
+                "title": "Beranda",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1751076100888,
+                "label": "Visi Misi",
+                "title": "Visi Misi",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1751091198643,
+                "label": "Sambuatan kepala sekolah",
+                "title": "Sambuatan kepala sekolah",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1751693366977,
+                "label": "Informasi sekolah",
+                "title": "Informasi sekolah",
+                "type": "separator",
+                "target": "_self",
+                "rel": "nofollow",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1751767806443,
+                        "label": "Struktur organisasi",
+                        "title": "Struktur organisasi",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "follow",
+                        "link": 15,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751120477386,
+                        "label": "Dewan guru",
+                        "title": "Dewan guru",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 8,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751509870725,
+                        "label": "Admin",
+                        "title": "Admin",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "follow",
+                        "link": "https://belajarium.id",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751807426639,
+                        "label": "Hubungi Kami",
+                        "title": "Hubungi Kami",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "Follow",
+                        "link": 16,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1751100146549,
+                "label": "Alumni",
+                "title": "Alumni",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1751100166237,
+                        "label": "Alumni 2024",
+                        "title": "Alumni 2024",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 6,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751179937239,
+                        "label": "Alumni 2025",
+                        "title": "Alumni 2025",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 9,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1781425444433,
+                        "label": "Alumni 2026",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 25,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1751073819826,
+                "label": "Data",
+                "title": "Data",
+                "type": "separator",
+                "target": "_self",
+                "rel": "nofollow",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1751073975514,
+                        "label": "Data referensi sekolah",
+                        "title": "Data referensi sekolah",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "",
+                        "link": "https://referensi.data.kemdikbud.go.id/pendidikan/npsn/30302477",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751074031177,
+                        "label": "Data Dapodik",
+                        "title": "Data Dapodik",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "",
+                        "link": "https://dapo.dikdasmen.go.id/sekolah/3E9D2D411EA8736D85B6",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751073798579,
+                        "label": "Kalender Pendidikan 2025-2026",
+                        "title": "Kalender Pendidikan 2025-2026",
+                        "type": "post",
+                        "target": "_blank",
+                        "rel": "follow",
+                        "link": 18,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1752156143977,
+                        "label": "Hari libur dan cuti bersama 2025-2026",
+                        "title": "Hari libur dan cuti bersama 2025-2026",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "follow",
+                        "link": 19,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751073865861,
+                        "label": "Jadwal Pelajaran 2025-2026",
+                        "title": "Jadwal Pelajaran 2025-2026",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "follow",
+                        "link": "https://www.papermark.com/view/cmd17g95s0001l604ozjoz9zo",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751073729954,
+                        "label": "Data Guru",
+                        "title": "Data Guru",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "follow",
+                        "link": "https://www.papermark.com/view/cmcr18csf000il404tkg97tsa",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1751073754618,
+                        "label": "Data siswa",
+                        "title": "Data siswa",
+                        "type": "external",
+                        "target": "_blank",
+                        "rel": "follow",
+                        "link": "https://www.papermark.com/view/cmaj6vqfc0001l704stfwaqrd",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

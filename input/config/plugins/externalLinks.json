@@ -1,0 +1,19 @@
+{
+    "iconChoice": "extlink-icon-11",
+    "iconPosition": "after",
+    "scope": "both",
+    "addNofollow": false,
+    "addNoopener": false,
+    "addNoreferrer": true,
+    "addSponsored": true,
+    "addUgc": false,
+    "overrideRel": true,
+    "linkTitle": "",
+    "additionalClass": "",
+    "iconMargin": "5px",
+    "iconSize": "16px",
+    "iconVerticalPosition": "0",
+    "iconColorSelect": "currentColor",
+    "iconColor": "#3366cc",
+    "excludeSelectors": ""
+}
